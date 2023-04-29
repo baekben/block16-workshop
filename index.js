@@ -53,3 +53,5 @@ function grandTotal(person) {
 }
 
 grandTotal(timmy);
+grandTotal(sarah);
+grandTotal(rocky);
