@@ -49,6 +49,7 @@ function grandTotal(person) {
   if (person.coupon) {
     total = coupon(total);
   }
+  console.log("Your grand total is" ,total);
   return `Your grand total is ${total}`;
 }
 
